@@ -53,4 +53,4 @@ Version __0.1__ (released 4 January 2008):
 
 ### Author
 
-The giub.bst BibTeX style was written by __Philip Leifeld__ ([http://www.philipleifeld.de](http://www.philipleifeld.de). Please report bugs at http://github.com/leifeld/GIUB-BibTeX.
+The giub.bst BibTeX style was written by __Philip Leifeld__ ([http://www.philipleifeld.de](http://www.philipleifeld.de)). Please report bugs at http://github.com/leifeld/GIUB-BibTeX.
