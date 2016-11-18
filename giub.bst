@@ -1,9 +1,9 @@
 % Giub.bst is an inofficial citation style for the Geographic Institute 
 % of the University of Bonn, Germany (GIUB). It was written by Philip 
-% Leifeld, Zukunftskolleg, University of Konstanz, Germany. Please 
-% contact me at http://github.com/leifeld/GIUB-BibTeX if you find errors. 
-% giub.bst should be used with the natbib package. This is version 0.3. 
-% It was released on November 29, 2013.
+% Leifeld, University of Glasgow. Please contact me at 
+% http://github.com/leifeld/GIUB-BibTeX if you find errors. 
+% giub.bst should be used with the natbib package. This is version 0.4. 
+% It was released on November 18, 2016.
 
 %------------------------------------------------------- preamble
 
