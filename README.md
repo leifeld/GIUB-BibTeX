@@ -36,6 +36,10 @@ This BibTeX style, giub.bst, is an inofficial implementation of the citation and
 
 ### Version history
 
+Version __0.4__ (released 18 November 2016):
+
+* Updated affiliation.
+
 Version __0.3__ (released 29 November 2013):
 
 * Updated contact information and warning messages.
